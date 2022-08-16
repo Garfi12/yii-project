@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(245, 222, 179, 0.2);
+}
+footer{
+    background-color: rgba(128, 128, 128, 0.9) !important;
+}
+
+.bg-primary {
+    background-color: rgba(128, 128, 128, 0.9) !important;
+}
+.navbar-expand-md .navbar-collapse {
+    display: flex !important;
+    justify-content: space-around;
+    padding: 2px;
+    font-size: large;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+}
+.carousel-inner{
+
+    background-color: black;
+    width: auto;
+    height:auto;
+}
+main > .container {
+    padding: 30px 15px 20px;
+}
+.top_tov{
+
+    padding-top: 27px;
+    display: flex;
+   justify-content: left;
+}
+.Mg{
+    border-radius: 30px;
+    width: 15.9rem;
+    height: 200px;
+    padding-top: 5px;
+   
+}
+.karti{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+.my{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    border-radius: 30px;
+    align-items: center;
+}
+.carousel-caption{
+    color: aqua;
+}
